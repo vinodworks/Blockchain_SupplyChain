@@ -16,10 +16,6 @@ Problems in Exixting System
 - Seamless collaboration between all parties
 - Reduce paper work and Speedup process
 
-#### Application Workflow Diagram
----
-![](https://raw.githubusercontent.com/kamalkishorm/Blockchain_SupplyChain/master/assets/flow/Blockchain_Pharmaceutical_SupplyChain.png)
-
 #### Roles
 ---
 1. Admin
@@ -61,8 +57,7 @@ Problems in Exixting System
 **Setting up Ethereum Smart Contract:**
 
 ```
-git clone https://github.com/kamalkishorm/Blockchain_SupplyChain.git
-cd Blockchain_SupplyChain/
+
 ```
 **Update truffle.js **
 
@@ -163,7 +158,7 @@ Summary
 **Setting up SupplyChain UI:**
 
 ```
-git clone https://github.com/kamalkishorm/Pharmaceutical_Supplychain-UI.git
+git clone https://github.com/vinodkumar/Pharmaceutical_Supplychain-UI.git
 cd Pharmaceutical_Supplychain-UI/
 npm i
 ng serve
