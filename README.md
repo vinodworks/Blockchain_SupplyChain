@@ -1,10 +1,6 @@
-# Blockchain : Pharmaceutical SupplyChain
-This project showcases the journey of Medicine on blockchain.
+# Blockchain : Drug Counterfeit (SupplyChain)
 
-The Pharmaceutical supply chain is the sequence of activities and process to bring raw drugs and matrials from supplier(farms) to processed medicine in Pharm.
-
-#### Problems in Exixting System
----
+Problems in Exixting System
 - Shipment visibility
 - Expiration
 - Slow Process and Error prone paper work
